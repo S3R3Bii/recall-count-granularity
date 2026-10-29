@@ -1,0 +1,20 @@
+{
+  "timestamp_utc": "2026-10-29T17:57:48.805591+00:00",
+  "status": "PASS_BOUNDED_SCAN",
+  "files_checked": 8,
+  "scope": "Exact staged Git index bytes; decompressed text; forbidden paths/extensions, high-confidence key and private machine path patterns; local Markdown links. Image/PDF contents require separate visual/source review. This is not universal secret detection.",
+  "findings": [],
+  "sha256": {
+    ".gitattributes": "421b40ccefad24646f59b490b201bc1b7c5415324e4c42b493cee3ab86c5497d",
+    ".gitignore": "9443a27143f94f57c23f3faac957da96da01f11d0606d2fcd6866885ad841fcf",
+    "DATA_RIGHTS.md": "5eb104c912941dd18b7e5dcab92f4e6845ac419aaa18509e806f27de71ba4eea",
+    "PROTOCOL.md": "87aab507eb1e40393d04742453f51f1f60fe8e450ad9a24d34ee8b0a51a20672",
+    "README.md": "9b7ec44f8b1ad01f996ff709badad7304af5fd91c4c49ba189e077f4113f1705",
+    "SOURCES.md": "43840f07c6bc134f5abf35b7b6ac3d4206935ceee97d987a2d581c5f5ea1bc27",
+    "requirements.txt": "5d1fb6514d4dcf4d3d78f72c73fa3d9026a99d1f8e80d1bd12965c68982abced",
+    "src/config.py": "ce7ce9ab9f55c1bf0d04582fb56b1a56bdada590e8e318a8d8a8529be85cfd9c"
+  },
+  "raw_source_members_excluded": true,
+  "unapproved_manuscripts_excluded": true,
+  "approved_independent_paper_files": []
+}

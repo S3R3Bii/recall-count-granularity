@@ -1,0 +1,12 @@
+# Primary sources and bounded prior work
+
+Verified 29 October 2026:
+
+1. [openFDA food enforcement overview](https://open.fda.gov/apis/food/enforcement/): publicly releasable RES records, weekly updates, later corrections/expansions and explicit restrictions on public-alert and recall-lifecycle use.
+2. [FDA Enforcement Report information and definitions](https://www.fda.gov/safety/enforcement-reports/enforcement-report-information-and-definitions): recall number identifies a specific classified product; event ID identifies a recall event; one event can include more than one product. These definitions govern counting semantics. Different products under one event are not presumed erroneous duplicates.
+3. [Food searchable fields](https://open.fda.gov/apis/food/enforcement/searchable-fields/) and [query parameters](https://open.fda.gov/apis/query-parameters/): exact identifiers and sorting; page limit 1,000 and maximum skip 25,000. The food page's linked YAML currently resolves to drugenforcement.yaml; that shared schema is only discovery metadata. Its generic recall-number wording does not replace the FDA definitions above.
+4. [Endpoint instructions](https://open.fda.gov/apis/food/enforcement/how-to-use-the-endpoint/): public endpoint access. Ordinary sequential requests remain within published limits; do not bypass throttling or use credentials.
+5. [License](https://open.fda.gov/license/) and [terms](https://open.fda.gov/terms/): public-domain/CC0 default and stated exceptions. Food-only selected fields; no GMDN data or endorsement.
+6. Kass-Hout et al. (2016), *OpenFDA: an innovative platform providing access to a wealth of FDA's publicly available data*, JAMIA 23:596–600, [doi:10.1093/jamia/ocv153](https://doi.org/10.1093/jamia/ocv153), [PubMed](https://pubmed.ncbi.nlm.nih.gov/26644398/). Platform context only; this bounded review does not establish an unexplored scientific gap. Distinct counting, linear sample quantiles and threshold comparisons are established methods.
+
+Before this protocol, one 2019 calibration record was inspected for field names/types and sortable recall_number.exact. Its metadata reported last_updated=2026-10-21 and 1,863 records for that year. No monthly counts, fanout, threshold, trigger or evaluation outcome was computed. Private discovery receipts retain the exact response hash. No human-audited labels or amendment vintages are available.

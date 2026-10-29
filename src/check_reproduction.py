@@ -8,7 +8,7 @@ def csvrows(path):
 
 def main():
     freeze=json.loads((ROOT/'results/CODE_FREEZE.json').read_text())
-    for name,digest in freeze['sha256'].items():assert hashlib.sha256((ROOT/name).read_bytes()).hexdigest()==digest,name
+    for name,digest in freeze['sha256'].items():assert hashlib.sha256((ROOT/name).read_bytes().replace(b'\r\n',b'\n')).hexdigest()==digest,name
     exact=floating=0
     with tempfile.TemporaryDirectory(prefix='recall-replay-') as temp:
         out=Path(temp)

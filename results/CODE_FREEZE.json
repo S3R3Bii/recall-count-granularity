@@ -1,0 +1,61 @@
+{
+  "timestamp_utc": "2026-10-29T17:59:37.611690+00:00",
+  "status": "FROZEN_BEFORE_EVALUATION_OUTCOMES",
+  "code_checkpoint": "b3400175715e031c44b03f96b189bc5916638db5",
+  "hash_convention": "Canonical LF Git text; checkout CRLF normalized for public replay",
+  "sha256": {
+    "PROTOCOL.md": "87aab507eb1e40393d04742453f51f1f60fe8e450ad9a24d34ee8b0a51a20672",
+    "src/config.py": "ce7ce9ab9f55c1bf0d04582fb56b1a56bdada590e8e318a8d8a8529be85cfd9c",
+    "src/accounting.py": "14726a67b8706f789cd7eb7b0e0b497844f0ae6f82e5bd3081a05cc03d672d45",
+    "src/ingest.py": "0f25765c70ee3f5009e2f52a14931461e9ba1f4ab811ce926560133efcfe5f20",
+    "src/calibrate.py": "d50de8b9b59b1e7d0da028b4a9cc8163ea31436d1f37f2e9954a0019f09a132c",
+    "src/analyze.py": "72f5c663c9e138797decefe49039028665fb02ba0f3b7546b2c48b333ba3406c",
+    "src/verify_analysis.py": "d89f19b48571afb4a205ae604bab94e147e8573cb8141030961e7ebfa4480c3d",
+    "src/verify_source.py": "cd4b8667c8616447e9515b529c49fee272d5156a819789c7cb82f7d95a16eb75",
+    "tests/test_boundaries.py": "f0e8d44f42f1ef5ca3804ad36b2b601f6b19810c1f8c95bbbb6f4a2915d2f100",
+    "data/source/manifest.json": "b9f1dbf0fbdd3c62ddaeeccde091fc9ea2b08271156d65b989c2342e0391b87a",
+    "data/records.csv": "5ce7a108949567727df946315f131cce6f6ac997109becddfb3a8bc6cc8f1719",
+    "results/calibration.json": "e24cc9b85e0e4606900f2197dfff0ae20c9fd0cf6d3f778259d3ef6690bcee2d"
+  },
+  "separation": "Only2017\u20132021 count/threshold/fanout/trigger outputs computed. All-year source row/format coverage allowed. Evaluation event counts, fanout, flags and membership outputs have not been computed.",
+  "source_checks": {
+    "selected_and_normalized_field_checks": 261184,
+    "records": 16324,
+    "months": 108,
+    "pages": 21,
+    "final_probes": 9,
+    "version": "2026-10-21"
+  },
+  "development_checks": {
+    "boundary_tests": 9,
+    "independent_values": 13608,
+    "max_float_delta": 0.0,
+    "thresholds": 64
+  },
+  "gates": {
+    "source_rights_privacy": "PASS",
+    "coverage": "PASS unchanged",
+    "calibration": "PASS",
+    "development_science": "PASS",
+    "evaluation": "PENDING",
+    "presentation_replay_release": "PENDING"
+  },
+  "review_rounds_completed": 2,
+  "review_budget": "3 substantive rounds/45active review minutes/60review calls per study; execution separate",
+  "workload_proxy": "Discovery17:51UTC to seal about18:01UTC is elapsed upper bound on active review, not quota/billing; fewer than30review-specific calls; no delegation or external judge.",
+  "usage_observation": {
+    "source": "Codex get_usage_limits",
+    "observed_utc": "2026-10-29T17:58:22Z",
+    "bucket": "codex",
+    "window_minutes": 10080,
+    "used_percent": 79,
+    "remaining_percent": 21,
+    "reset_unix": 1793782197,
+    "shared_account_not_task_usage": true
+  },
+  "limits": [
+    "Current later snapshot, not historical vintages or prospective validation",
+    "Metadata/count consistency is bounded retrieval evidence, not a transactional atomic-snapshot guarantee",
+    "No public alerts, lifecycle, amendment history, human-audited labels, new algorithm, true hazard/risk or medical claim"
+  ]
+}

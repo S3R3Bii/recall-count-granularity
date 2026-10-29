@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "plotted_values": 528,
+  "global_distinct_events": 4601,
+  "global_multi_month_event_ids": 0,
+  "global_multi_class_event_ids": 98,
+  "scope": "Independent source SQL, exact ratios and retained independently verified policy flags; visual inspection is separate"
+}

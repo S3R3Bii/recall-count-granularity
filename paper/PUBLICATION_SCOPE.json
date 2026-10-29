@@ -1,0 +1,12 @@
+{
+  "scope": "independent-program-study",
+  "formal_submission_target": false,
+  "authority": "Reviewed independent program manuscripts are authorized on project-specific GitHub; separate formal-publication work including Azure stays private.",
+  "public_files": {
+    "paper/main.tex": "4d8ed13dcf5b44ab14838407000551c071164495d7e72de2583f087a3cd20379",
+    "paper/manuscript.pdf": "3078563bdb9794ff7f1dd0748a9972f2533e586eaf6bad771375b42d0370da3a",
+    "paper/images/event-fanout.pdf": "caa5fe4943cf8424b360d5bfbd79f4fe1021ddf41ee9a4f65d1f6f4c2c1cfef3",
+    "paper/images/flag-agreement.pdf": "e6356e228835b7ff453618cb7566a6747a74c7203e1dbcd48d3d8bb05a3d4810",
+    "paper/images/monthly-counts.pdf": "84d7b1e8f76a233b194606b962466cea332f9da1408b6bb2f12541a2fc0b6111"
+  }
+}

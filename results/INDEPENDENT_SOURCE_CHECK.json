@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "selected_and_normalized_field_checks": 261184,
+  "products": 16324,
+  "pages": 21,
+  "final_count_probes": 9,
+  "source_version": "2026-10-21",
+  "originals_excluded_from_git": true
+}

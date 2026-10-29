@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "phase": "development",
+  "independent_value_checks": 13608,
+  "max_float_delta": 0.0,
+  "methods": "SQLite distinct/grouped counts; decimal type7 quantiles; Fraction comparisons/concentration; independent contingency histograms",
+  "tolerance": "Exact integers/rational thresholds/flags;1e-12 absolute for reported float ratios only"
+}

@@ -1,0 +1,16 @@
+{
+  "phase": "evaluation",
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "source_products": 6833,
+  "event_months": 1954,
+  "distinct_event_ids": 1954,
+  "multi_month_event_ids": 0,
+  "multi_class_event_ids": 47,
+  "max_monthly_fanout": 12.173913043478262,
+  "product_event_month_ratio": 3.4969293756397133
+}

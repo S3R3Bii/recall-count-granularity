@@ -1,0 +1,73 @@
+{
+  "timestamp_utc": "2026-10-29T18:03:53.214846+00:00",
+  "version": "study17-local-candidate-3",
+  "status": "LOCAL_CANDIDATE_CHECKS_REMOTE_PENDING",
+  "public_file_sha256": {
+    "paper/main.tex": "4d8ed13dcf5b44ab14838407000551c071164495d7e72de2583f087a3cd20379",
+    "paper/manuscript.pdf": "3078563bdb9794ff7f1dd0748a9972f2533e586eaf6bad771375b42d0370da3a",
+    "paper/images/event-fanout.pdf": "caa5fe4943cf8424b360d5bfbd79f4fe1021ddf41ee9a4f65d1f6f4c2c1cfef3",
+    "paper/images/flag-agreement.pdf": "e6356e228835b7ff453618cb7566a6747a74c7203e1dbcd48d3d8bb05a3d4810",
+    "paper/images/monthly-counts.pdf": "84d7b1e8f76a233b194606b962466cea332f9da1408b6bb2f12541a2fc0b6111"
+  },
+  "acceptance_criteria": {
+    "source_rights_privacy": {
+      "grade": "PASS",
+      "evidence": "Food-only administrative fields;21full pages stay outsideGit;261184selected/normalized fields checked;CC0default and exceptions attributed"
+    },
+    "coverage": {
+      "grade": "PASS",
+      "evidence": "16324unique products,108months,all unchanged class-month minimums"
+    },
+    "separation": {
+      "grade": "PASS",
+      "evidence": "da5f200e635a0d733737a1c4e52a64d14542f0b2 publicly sealed twelve dependencies and calibration before first evaluation outcome"
+    },
+    "scientific_values": {
+      "grade": "PASS",
+      "evidence": "9boundary tests;13608development and10685evaluation independent checks;all exact/rational comparisons and reported ratios pass"
+    },
+    "fresh_replay": {
+      "grade": "PASS",
+      "evidence": "196440exact fields/documents and1296floating fields rebuilt isolated from minimized source"
+    },
+    "presentation_source_support": {
+      "grade": "PASS",
+      "evidence": "528plotted values verified;threeoriginal figures andallsevenrendered pages visually inspected;zero compiler box/glyph/reference warnings;complete fair comparator and qualifications"
+    },
+    "publication_privacy": {
+      "grade": "PASS_PDF_SCOPE_STAGED_AUDIT_PENDING",
+      "evidence": "Fiveapproved exactpaperfiles;70numeric/table/textchecks;seven required semanticpages andallcommands;no activecode/attachments/forms/additionalactions;HTTPSlinks only"
+    },
+    "remote_release": {
+      "grade": "PENDING",
+      "evidence": "Exact-headLinux/merge/tree/tag proofs required before release count"
+    }
+  },
+  "review_round": 3,
+  "review_budget": "3substantive rounds/45active review minutes/60review calls per study;execution separate",
+  "workload_proxies": {
+    "elapsed_source_discovery_to_candidate_minutes_upper_bound": 15,
+    "review_specific_calls_upper_bound": 45,
+    "not_quota_or_billing": true
+  },
+  "usage_observation": {
+    "source": "Codex get_usage_limits",
+    "observed_utc": "2026-10-29T18:02:56Z",
+    "bucket": "codex",
+    "window_minutes": 10080,
+    "used_percent": 80,
+    "remaining_percent": 20,
+    "reset_unix": 1793782197,
+    "shared_account_not_task_usage": true
+  },
+  "material_changes": "Completedfrozen evaluation,independent SQL/rationalchecks,offline replay,threefigures andseven-page manuscript. InitialLaTexreference delimiter compilefailure archived;one targeted paragraph-delimiter repair;no scientific/tolerance change.",
+  "limitations": [
+    "Current snapshot does not establish amendment history or original availability",
+    "Illustrative fixed queue thresholds without verified safety or labor labels",
+    "Distinct products retained;no dedup-error or causal/medical/future-risk claim",
+    "Finite checks andbounded prior review do not establish universal correctness ornovelty"
+  ],
+  "next_step": "Finish exactpaper/publication checks,push scopedcandidate,pass LinuxCIandverify testedmerge/tag.",
+  "retained_checker_repair": "First paper checker used an unjustified18000character floor; actual16966characters acrossallseven inspected pages. Replaced that nonsemantic proxy with required per-page headings and complete executable command checks; PDFbytes andscientific criteria unchanged. Failure andoldchecker archived privately. UnicodeNFKC ligature normalization makes PDFheading checks semantic while preserving bytes.",
+  "retained_packaging_repair": "Staged diff detected CRLF in byte-preserved TeX and one trailing Python space;normalized TeXlineendings only. PDFbytes andcontent unchanged;approved sourcehash refreshed."
+}

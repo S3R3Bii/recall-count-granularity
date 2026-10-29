@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "manuscript_pages": 7,
+  "numeric_table_and_text_checks": 70,
+  "public_file_hashes_checked": 5,
+  "pdf_security": "No active code, attachments, form or additional actions; ordinary HTTPS links and navigation allowed",
+  "text_scope": "Bounded high-confidence machine-path/token scan; visual and source review separate"
+}

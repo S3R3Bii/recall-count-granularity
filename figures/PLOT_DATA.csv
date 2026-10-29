@@ -1,0 +1,529 @@
+figure,panel,month,q,policy,series,value
+monthly-counts,All,2017-01,,,products,457
+monthly-counts,All,2017-02,,,products,156
+monthly-counts,All,2017-03,,,products,232
+monthly-counts,All,2017-04,,,products,362
+monthly-counts,All,2017-05,,,products,170
+monthly-counts,All,2017-06,,,products,130
+monthly-counts,All,2017-07,,,products,634
+monthly-counts,All,2017-08,,,products,453
+monthly-counts,All,2017-09,,,products,117
+monthly-counts,All,2017-10,,,products,67
+monthly-counts,All,2017-11,,,products,297
+monthly-counts,All,2017-12,,,products,128
+monthly-counts,All,2018-01,,,products,133
+monthly-counts,All,2018-02,,,products,143
+monthly-counts,All,2018-03,,,products,136
+monthly-counts,All,2018-04,,,products,171
+monthly-counts,All,2018-05,,,products,361
+monthly-counts,All,2018-06,,,products,62
+monthly-counts,All,2018-07,,,products,67
+monthly-counts,All,2018-08,,,products,243
+monthly-counts,All,2018-09,,,products,76
+monthly-counts,All,2018-10,,,products,134
+monthly-counts,All,2018-11,,,products,337
+monthly-counts,All,2018-12,,,products,95
+monthly-counts,All,2019-01,,,products,19
+monthly-counts,All,2019-02,,,products,264
+monthly-counts,All,2019-03,,,products,141
+monthly-counts,All,2019-04,,,products,91
+monthly-counts,All,2019-05,,,products,100
+monthly-counts,All,2019-06,,,products,74
+monthly-counts,All,2019-07,,,products,462
+monthly-counts,All,2019-08,,,products,134
+monthly-counts,All,2019-09,,,products,154
+monthly-counts,All,2019-10,,,products,107
+monthly-counts,All,2019-11,,,products,161
+monthly-counts,All,2019-12,,,products,156
+monthly-counts,All,2020-01,,,products,144
+monthly-counts,All,2020-02,,,products,173
+monthly-counts,All,2020-03,,,products,105
+monthly-counts,All,2020-04,,,products,70
+monthly-counts,All,2020-05,,,products,37
+monthly-counts,All,2020-06,,,products,38
+monthly-counts,All,2020-07,,,products,123
+monthly-counts,All,2020-08,,,products,79
+monthly-counts,All,2020-09,,,products,255
+monthly-counts,All,2020-10,,,products,158
+monthly-counts,All,2020-11,,,products,39
+monthly-counts,All,2020-12,,,products,65
+monthly-counts,All,2021-01,,,products,33
+monthly-counts,All,2021-02,,,products,83
+monthly-counts,All,2021-03,,,products,44
+monthly-counts,All,2021-04,,,products,102
+monthly-counts,All,2021-05,,,products,157
+monthly-counts,All,2021-06,,,products,134
+monthly-counts,All,2021-07,,,products,43
+monthly-counts,All,2021-08,,,products,107
+monthly-counts,All,2021-09,,,products,115
+monthly-counts,All,2021-10,,,products,81
+monthly-counts,All,2021-11,,,products,142
+monthly-counts,All,2021-12,,,products,140
+monthly-counts,All,2022-01,,,products,164
+monthly-counts,All,2022-02,,,products,223
+monthly-counts,All,2022-03,,,products,204
+monthly-counts,All,2022-04,,,products,60
+monthly-counts,All,2022-05,,,products,61
+monthly-counts,All,2022-06,,,products,290
+monthly-counts,All,2022-07,,,products,141
+monthly-counts,All,2022-08,,,products,88
+monthly-counts,All,2022-09,,,products,192
+monthly-counts,All,2022-10,,,products,98
+monthly-counts,All,2022-11,,,products,102
+monthly-counts,All,2022-12,,,products,29
+monthly-counts,All,2023-01,,,products,101
+monthly-counts,All,2023-02,,,products,50
+monthly-counts,All,2023-03,,,products,560
+monthly-counts,All,2023-04,,,products,97
+monthly-counts,All,2023-05,,,products,197
+monthly-counts,All,2023-06,,,products,49
+monthly-counts,All,2023-07,,,products,289
+monthly-counts,All,2023-08,,,products,171
+monthly-counts,All,2023-09,,,products,80
+monthly-counts,All,2023-10,,,products,182
+monthly-counts,All,2023-11,,,products,166
+monthly-counts,All,2023-12,,,products,213
+monthly-counts,All,2024-01,,,products,114
+monthly-counts,All,2024-02,,,products,133
+monthly-counts,All,2024-03,,,products,165
+monthly-counts,All,2024-04,,,products,79
+monthly-counts,All,2024-05,,,products,65
+monthly-counts,All,2024-06,,,products,123
+monthly-counts,All,2024-07,,,products,105
+monthly-counts,All,2024-08,,,products,229
+monthly-counts,All,2024-09,,,products,73
+monthly-counts,All,2024-10,,,products,83
+monthly-counts,All,2024-11,,,products,80
+monthly-counts,All,2024-12,,,products,160
+monthly-counts,All,2025-01,,,products,110
+monthly-counts,All,2025-02,,,products,143
+monthly-counts,All,2025-03,,,products,90
+monthly-counts,All,2025-04,,,products,77
+monthly-counts,All,2025-05,,,products,78
+monthly-counts,All,2025-06,,,products,179
+monthly-counts,All,2025-07,,,products,273
+monthly-counts,All,2025-08,,,products,198
+monthly-counts,All,2025-09,,,products,93
+monthly-counts,All,2025-10,,,products,164
+monthly-counts,All,2025-11,,,products,67
+monthly-counts,All,2025-12,,,products,145
+monthly-counts,All,2017-01,,,events,74
+monthly-counts,All,2017-02,,,events,51
+monthly-counts,All,2017-03,,,events,78
+monthly-counts,All,2017-04,,,events,65
+monthly-counts,All,2017-05,,,events,69
+monthly-counts,All,2017-06,,,events,44
+monthly-counts,All,2017-07,,,events,69
+monthly-counts,All,2017-08,,,events,57
+monthly-counts,All,2017-09,,,events,37
+monthly-counts,All,2017-10,,,events,34
+monthly-counts,All,2017-11,,,events,71
+monthly-counts,All,2017-12,,,events,50
+monthly-counts,All,2018-01,,,events,46
+monthly-counts,All,2018-02,,,events,47
+monthly-counts,All,2018-03,,,events,48
+monthly-counts,All,2018-04,,,events,58
+monthly-counts,All,2018-05,,,events,57
+monthly-counts,All,2018-06,,,events,32
+monthly-counts,All,2018-07,,,events,25
+monthly-counts,All,2018-08,,,events,78
+monthly-counts,All,2018-09,,,events,28
+monthly-counts,All,2018-10,,,events,43
+monthly-counts,All,2018-11,,,events,65
+monthly-counts,All,2018-12,,,events,51
+monthly-counts,All,2019-01,,,events,8
+monthly-counts,All,2019-02,,,events,45
+monthly-counts,All,2019-03,,,events,47
+monthly-counts,All,2019-04,,,events,33
+monthly-counts,All,2019-05,,,events,55
+monthly-counts,All,2019-06,,,events,37
+monthly-counts,All,2019-07,,,events,46
+monthly-counts,All,2019-08,,,events,37
+monthly-counts,All,2019-09,,,events,38
+monthly-counts,All,2019-10,,,events,61
+monthly-counts,All,2019-11,,,events,43
+monthly-counts,All,2019-12,,,events,52
+monthly-counts,All,2020-01,,,events,43
+monthly-counts,All,2020-02,,,events,53
+monthly-counts,All,2020-03,,,events,47
+monthly-counts,All,2020-04,,,events,36
+monthly-counts,All,2020-05,,,events,24
+monthly-counts,All,2020-06,,,events,19
+monthly-counts,All,2020-07,,,events,26
+monthly-counts,All,2020-08,,,events,33
+monthly-counts,All,2020-09,,,events,48
+monthly-counts,All,2020-10,,,events,27
+monthly-counts,All,2020-11,,,events,23
+monthly-counts,All,2020-12,,,events,41
+monthly-counts,All,2021-01,,,events,23
+monthly-counts,All,2021-02,,,events,32
+monthly-counts,All,2021-03,,,events,34
+monthly-counts,All,2021-04,,,events,40
+monthly-counts,All,2021-05,,,events,48
+monthly-counts,All,2021-06,,,events,51
+monthly-counts,All,2021-07,,,events,26
+monthly-counts,All,2021-08,,,events,30
+monthly-counts,All,2021-09,,,events,38
+monthly-counts,All,2021-10,,,events,34
+monthly-counts,All,2021-11,,,events,46
+monthly-counts,All,2021-12,,,events,46
+monthly-counts,All,2022-01,,,events,25
+monthly-counts,All,2022-02,,,events,32
+monthly-counts,All,2022-03,,,events,53
+monthly-counts,All,2022-04,,,events,33
+monthly-counts,All,2022-05,,,events,26
+monthly-counts,All,2022-06,,,events,72
+monthly-counts,All,2022-07,,,events,36
+monthly-counts,All,2022-08,,,events,35
+monthly-counts,All,2022-09,,,events,31
+monthly-counts,All,2022-10,,,events,37
+monthly-counts,All,2022-11,,,events,38
+monthly-counts,All,2022-12,,,events,20
+monthly-counts,All,2023-01,,,events,30
+monthly-counts,All,2023-02,,,events,33
+monthly-counts,All,2023-03,,,events,46
+monthly-counts,All,2023-04,,,events,41
+monthly-counts,All,2023-05,,,events,61
+monthly-counts,All,2023-06,,,events,31
+monthly-counts,All,2023-07,,,events,43
+monthly-counts,All,2023-08,,,events,50
+monthly-counts,All,2023-09,,,events,30
+monthly-counts,All,2023-10,,,events,33
+monthly-counts,All,2023-11,,,events,35
+monthly-counts,All,2023-12,,,events,47
+monthly-counts,All,2024-01,,,events,38
+monthly-counts,All,2024-02,,,events,36
+monthly-counts,All,2024-03,,,events,43
+monthly-counts,All,2024-04,,,events,41
+monthly-counts,All,2024-05,,,events,41
+monthly-counts,All,2024-06,,,events,32
+monthly-counts,All,2024-07,,,events,45
+monthly-counts,All,2024-08,,,events,41
+monthly-counts,All,2024-09,,,events,31
+monthly-counts,All,2024-10,,,events,38
+monthly-counts,All,2024-11,,,events,28
+monthly-counts,All,2024-12,,,events,47
+monthly-counts,All,2025-01,,,events,46
+monthly-counts,All,2025-02,,,events,40
+monthly-counts,All,2025-03,,,events,41
+monthly-counts,All,2025-04,,,events,55
+monthly-counts,All,2025-05,,,events,30
+monthly-counts,All,2025-06,,,events,50
+monthly-counts,All,2025-07,,,events,62
+monthly-counts,All,2025-08,,,events,44
+monthly-counts,All,2025-09,,,events,41
+monthly-counts,All,2025-10,,,events,69
+monthly-counts,All,2025-11,,,events,40
+monthly-counts,All,2025-12,,,events,57
+event-fanout,All,2017-01,,,fanout,6.175675675675675
+event-fanout,All,2017-02,,,fanout,3.0588235294117645
+event-fanout,All,2017-03,,,fanout,2.9743589743589745
+event-fanout,All,2017-04,,,fanout,5.569230769230769
+event-fanout,All,2017-05,,,fanout,2.463768115942029
+event-fanout,All,2017-06,,,fanout,2.9545454545454546
+event-fanout,All,2017-07,,,fanout,9.18840579710145
+event-fanout,All,2017-08,,,fanout,7.947368421052632
+event-fanout,All,2017-09,,,fanout,3.1621621621621623
+event-fanout,All,2017-10,,,fanout,1.9705882352941178
+event-fanout,All,2017-11,,,fanout,4.183098591549296
+event-fanout,All,2017-12,,,fanout,2.56
+event-fanout,All,2018-01,,,fanout,2.891304347826087
+event-fanout,All,2018-02,,,fanout,3.0425531914893615
+event-fanout,All,2018-03,,,fanout,2.8333333333333335
+event-fanout,All,2018-04,,,fanout,2.9482758620689653
+event-fanout,All,2018-05,,,fanout,6.333333333333333
+event-fanout,All,2018-06,,,fanout,1.9375
+event-fanout,All,2018-07,,,fanout,2.68
+event-fanout,All,2018-08,,,fanout,3.1153846153846154
+event-fanout,All,2018-09,,,fanout,2.7142857142857144
+event-fanout,All,2018-10,,,fanout,3.116279069767442
+event-fanout,All,2018-11,,,fanout,5.184615384615385
+event-fanout,All,2018-12,,,fanout,1.8627450980392157
+event-fanout,All,2019-01,,,fanout,2.375
+event-fanout,All,2019-02,,,fanout,5.866666666666666
+event-fanout,All,2019-03,,,fanout,3.0
+event-fanout,All,2019-04,,,fanout,2.757575757575758
+event-fanout,All,2019-05,,,fanout,1.8181818181818181
+event-fanout,All,2019-06,,,fanout,2.0
+event-fanout,All,2019-07,,,fanout,10.043478260869565
+event-fanout,All,2019-08,,,fanout,3.6216216216216215
+event-fanout,All,2019-09,,,fanout,4.052631578947368
+event-fanout,All,2019-10,,,fanout,1.7540983606557377
+event-fanout,All,2019-11,,,fanout,3.744186046511628
+event-fanout,All,2019-12,,,fanout,3.0
+event-fanout,All,2020-01,,,fanout,3.3488372093023258
+event-fanout,All,2020-02,,,fanout,3.2641509433962264
+event-fanout,All,2020-03,,,fanout,2.234042553191489
+event-fanout,All,2020-04,,,fanout,1.9444444444444444
+event-fanout,All,2020-05,,,fanout,1.5416666666666667
+event-fanout,All,2020-06,,,fanout,2.0
+event-fanout,All,2020-07,,,fanout,4.730769230769231
+event-fanout,All,2020-08,,,fanout,2.393939393939394
+event-fanout,All,2020-09,,,fanout,5.3125
+event-fanout,All,2020-10,,,fanout,5.851851851851852
+event-fanout,All,2020-11,,,fanout,1.6956521739130435
+event-fanout,All,2020-12,,,fanout,1.5853658536585367
+event-fanout,All,2021-01,,,fanout,1.434782608695652
+event-fanout,All,2021-02,,,fanout,2.59375
+event-fanout,All,2021-03,,,fanout,1.2941176470588236
+event-fanout,All,2021-04,,,fanout,2.55
+event-fanout,All,2021-05,,,fanout,3.2708333333333335
+event-fanout,All,2021-06,,,fanout,2.627450980392157
+event-fanout,All,2021-07,,,fanout,1.6538461538461537
+event-fanout,All,2021-08,,,fanout,3.566666666666667
+event-fanout,All,2021-09,,,fanout,3.026315789473684
+event-fanout,All,2021-10,,,fanout,2.3823529411764706
+event-fanout,All,2021-11,,,fanout,3.0869565217391304
+event-fanout,All,2021-12,,,fanout,3.0434782608695654
+event-fanout,All,2022-01,,,fanout,6.56
+event-fanout,All,2022-02,,,fanout,6.96875
+event-fanout,All,2022-03,,,fanout,3.849056603773585
+event-fanout,All,2022-04,,,fanout,1.8181818181818181
+event-fanout,All,2022-05,,,fanout,2.3461538461538463
+event-fanout,All,2022-06,,,fanout,4.027777777777778
+event-fanout,All,2022-07,,,fanout,3.9166666666666665
+event-fanout,All,2022-08,,,fanout,2.5142857142857142
+event-fanout,All,2022-09,,,fanout,6.193548387096774
+event-fanout,All,2022-10,,,fanout,2.6486486486486487
+event-fanout,All,2022-11,,,fanout,2.6842105263157894
+event-fanout,All,2022-12,,,fanout,1.45
+event-fanout,All,2023-01,,,fanout,3.3666666666666667
+event-fanout,All,2023-02,,,fanout,1.5151515151515151
+event-fanout,All,2023-03,,,fanout,12.173913043478262
+event-fanout,All,2023-04,,,fanout,2.3658536585365852
+event-fanout,All,2023-05,,,fanout,3.2295081967213113
+event-fanout,All,2023-06,,,fanout,1.5806451612903225
+event-fanout,All,2023-07,,,fanout,6.72093023255814
+event-fanout,All,2023-08,,,fanout,3.42
+event-fanout,All,2023-09,,,fanout,2.6666666666666665
+event-fanout,All,2023-10,,,fanout,5.515151515151516
+event-fanout,All,2023-11,,,fanout,4.742857142857143
+event-fanout,All,2023-12,,,fanout,4.531914893617022
+event-fanout,All,2024-01,,,fanout,3.0
+event-fanout,All,2024-02,,,fanout,3.6944444444444446
+event-fanout,All,2024-03,,,fanout,3.8372093023255816
+event-fanout,All,2024-04,,,fanout,1.9268292682926829
+event-fanout,All,2024-05,,,fanout,1.5853658536585367
+event-fanout,All,2024-06,,,fanout,3.84375
+event-fanout,All,2024-07,,,fanout,2.3333333333333335
+event-fanout,All,2024-08,,,fanout,5.585365853658536
+event-fanout,All,2024-09,,,fanout,2.3548387096774195
+event-fanout,All,2024-10,,,fanout,2.1842105263157894
+event-fanout,All,2024-11,,,fanout,2.857142857142857
+event-fanout,All,2024-12,,,fanout,3.404255319148936
+event-fanout,All,2025-01,,,fanout,2.391304347826087
+event-fanout,All,2025-02,,,fanout,3.575
+event-fanout,All,2025-03,,,fanout,2.1951219512195124
+event-fanout,All,2025-04,,,fanout,1.4
+event-fanout,All,2025-05,,,fanout,2.6
+event-fanout,All,2025-06,,,fanout,3.58
+event-fanout,All,2025-07,,,fanout,4.403225806451613
+event-fanout,All,2025-08,,,fanout,4.5
+event-fanout,All,2025-09,,,fanout,2.268292682926829
+event-fanout,All,2025-10,,,fanout,2.3768115942028984
+event-fanout,All,2025-11,,,fanout,1.675
+event-fanout,All,2025-12,,,fanout,2.543859649122807
+event-fanout,All,2017-01,,,top5_product_fraction,55.798687089715536
+event-fanout,All,2017-02,,,top5_product_fraction,42.94871794871795
+event-fanout,All,2017-03,,,top5_product_fraction,30.603448275862068
+event-fanout,All,2017-04,,,top5_product_fraction,46.96132596685083
+event-fanout,All,2017-05,,,top5_product_fraction,42.94117647058823
+event-fanout,All,2017-06,,,top5_product_fraction,56.92307692307692
+event-fanout,All,2017-07,,,top5_product_fraction,79.49526813880126
+event-fanout,All,2017-08,,,top5_product_fraction,71.30242825607064
+event-fanout,All,2017-09,,,top5_product_fraction,64.1025641025641
+event-fanout,All,2017-10,,,top5_product_fraction,53.73134328358209
+event-fanout,All,2017-11,,,top5_product_fraction,40.4040404040404
+event-fanout,All,2017-12,,,top5_product_fraction,36.71875
+event-fanout,All,2018-01,,,top5_product_fraction,49.62406015037594
+event-fanout,All,2018-02,,,top5_product_fraction,59.44055944055944
+event-fanout,All,2018-03,,,top5_product_fraction,53.67647058823529
+event-fanout,All,2018-04,,,top5_product_fraction,59.06432748538012
+event-fanout,All,2018-05,,,top5_product_fraction,74.79224376731301
+event-fanout,All,2018-06,,,top5_product_fraction,53.2258064516129
+event-fanout,All,2018-07,,,top5_product_fraction,65.67164179104478
+event-fanout,All,2018-08,,,top5_product_fraction,52.674897119341566
+event-fanout,All,2018-09,,,top5_product_fraction,59.210526315789465
+event-fanout,All,2018-10,,,top5_product_fraction,64.92537313432835
+event-fanout,All,2018-11,,,top5_product_fraction,68.84272997032642
+event-fanout,All,2018-12,,,top5_product_fraction,33.68421052631579
+event-fanout,All,2019-01,,,top5_product_fraction,84.21052631578947
+event-fanout,All,2019-02,,,top5_product_fraction,63.25757575757576
+event-fanout,All,2019-03,,,top5_product_fraction,62.4113475177305
+event-fanout,All,2019-04,,,top5_product_fraction,68.13186813186813
+event-fanout,All,2019-05,,,top5_product_fraction,39.0
+event-fanout,All,2019-06,,,top5_product_fraction,43.24324324324324
+event-fanout,All,2019-07,,,top5_product_fraction,85.4978354978355
+event-fanout,All,2019-08,,,top5_product_fraction,67.91044776119402
+event-fanout,All,2019-09,,,top5_product_fraction,73.37662337662337
+event-fanout,All,2019-10,,,top5_product_fraction,30.8411214953271
+event-fanout,All,2019-11,,,top5_product_fraction,63.975155279503106
+event-fanout,All,2019-12,,,top5_product_fraction,55.12820512820513
+event-fanout,All,2020-01,,,top5_product_fraction,57.638888888888886
+event-fanout,All,2020-02,,,top5_product_fraction,57.22543352601156
+event-fanout,All,2020-03,,,top5_product_fraction,45.714285714285715
+event-fanout,All,2020-04,,,top5_product_fraction,47.14285714285714
+event-fanout,All,2020-05,,,top5_product_fraction,37.83783783783784
+event-fanout,All,2020-06,,,top5_product_fraction,57.89473684210527
+event-fanout,All,2020-07,,,top5_product_fraction,82.92682926829268
+event-fanout,All,2020-08,,,top5_product_fraction,60.75949367088608
+event-fanout,All,2020-09,,,top5_product_fraction,65.88235294117646
+event-fanout,All,2020-10,,,top5_product_fraction,79.74683544303798
+event-fanout,All,2020-11,,,top5_product_fraction,53.84615384615385
+event-fanout,All,2020-12,,,top5_product_fraction,35.38461538461539
+event-fanout,All,2021-01,,,top5_product_fraction,45.45454545454545
+event-fanout,All,2021-02,,,top5_product_fraction,57.831325301204814
+event-fanout,All,2021-03,,,top5_product_fraction,31.818181818181817
+event-fanout,All,2021-04,,,top5_product_fraction,56.86274509803921
+event-fanout,All,2021-05,,,top5_product_fraction,65.60509554140127
+event-fanout,All,2021-06,,,top5_product_fraction,53.73134328358209
+event-fanout,All,2021-07,,,top5_product_fraction,46.51162790697674
+event-fanout,All,2021-08,,,top5_product_fraction,68.22429906542055
+event-fanout,All,2021-09,,,top5_product_fraction,57.391304347826086
+event-fanout,All,2021-10,,,top5_product_fraction,59.25925925925925
+event-fanout,All,2021-11,,,top5_product_fraction,48.59154929577465
+event-fanout,All,2021-12,,,top5_product_fraction,57.85714285714286
+event-fanout,All,2022-01,,,top5_product_fraction,87.1951219512195
+event-fanout,All,2022-02,,,top5_product_fraction,84.75336322869956
+event-fanout,All,2022-03,,,top5_product_fraction,64.70588235294117
+event-fanout,All,2022-04,,,top5_product_fraction,51.66666666666667
+event-fanout,All,2022-05,,,top5_product_fraction,59.01639344262295
+event-fanout,All,2022-06,,,top5_product_fraction,52.758620689655174
+event-fanout,All,2022-07,,,top5_product_fraction,63.829787234042556
+event-fanout,All,2022-08,,,top5_product_fraction,60.22727272727273
+event-fanout,All,2022-09,,,top5_product_fraction,81.25
+event-fanout,All,2022-10,,,top5_product_fraction,57.14285714285714
+event-fanout,All,2022-11,,,top5_product_fraction,54.90196078431373
+event-fanout,All,2022-12,,,top5_product_fraction,48.275862068965516
+event-fanout,All,2023-01,,,top5_product_fraction,64.35643564356435
+event-fanout,All,2023-02,,,top5_product_fraction,38.0
+event-fanout,All,2023-03,,,top5_product_fraction,85.53571428571428
+event-fanout,All,2023-04,,,top5_product_fraction,56.70103092783505
+event-fanout,All,2023-05,,,top5_product_fraction,46.7005076142132
+event-fanout,All,2023-06,,,top5_product_fraction,38.775510204081634
+event-fanout,All,2023-07,,,top5_product_fraction,79.93079584775087
+event-fanout,All,2023-08,,,top5_product_fraction,51.461988304093566
+event-fanout,All,2023-09,,,top5_product_fraction,45.0
+event-fanout,All,2023-10,,,top5_product_fraction,82.96703296703298
+event-fanout,All,2023-11,,,top5_product_fraction,75.90361445783132
+event-fanout,All,2023-12,,,top5_product_fraction,53.52112676056338
+event-fanout,All,2024-01,,,top5_product_fraction,57.89473684210527
+event-fanout,All,2024-02,,,top5_product_fraction,65.41353383458647
+event-fanout,All,2024-03,,,top5_product_fraction,60.60606060606061
+event-fanout,All,2024-04,,,top5_product_fraction,53.16455696202531
+event-fanout,All,2024-05,,,top5_product_fraction,40.0
+event-fanout,All,2024-06,,,top5_product_fraction,60.16260162601627
+event-fanout,All,2024-07,,,top5_product_fraction,54.285714285714285
+event-fanout,All,2024-08,,,top5_product_fraction,69.43231441048034
+event-fanout,All,2024-09,,,top5_product_fraction,52.054794520547944
+event-fanout,All,2024-10,,,top5_product_fraction,49.39759036144578
+event-fanout,All,2024-11,,,top5_product_fraction,58.75
+event-fanout,All,2024-12,,,top5_product_fraction,65.625
+event-fanout,All,2025-01,,,top5_product_fraction,53.63636363636364
+event-fanout,All,2025-02,,,top5_product_fraction,69.93006993006993
+event-fanout,All,2025-03,,,top5_product_fraction,48.888888888888886
+event-fanout,All,2025-04,,,top5_product_fraction,25.97402597402597
+event-fanout,All,2025-05,,,top5_product_fraction,62.82051282051282
+event-fanout,All,2025-06,,,top5_product_fraction,68.71508379888269
+event-fanout,All,2025-07,,,top5_product_fraction,55.67765567765568
+event-fanout,All,2025-08,,,top5_product_fraction,46.464646464646464
+event-fanout,All,2025-09,,,top5_product_fraction,40.86021505376344
+event-fanout,All,2025-10,,,top5_product_fraction,29.878048780487802
+event-fanout,All,2025-11,,,top5_product_fraction,35.82089552238806
+event-fanout,All,2025-12,,,top5_product_fraction,56.55172413793104
+flag-agreement,All,,9/10,same_event_threshold,both,2
+flag-agreement,All,,9/10,own_product_threshold,both,0
+flag-agreement,All,,19/20,same_event_threshold,both,1
+flag-agreement,All,,19/20,own_product_threshold,both,0
+flag-agreement,All,,99/100,same_event_threshold,both,0
+flag-agreement,All,,99/100,own_product_threshold,both,0
+flag-agreement,All,,9/10,same_event_threshold,product_only,40
+flag-agreement,All,,9/10,own_product_threshold,product_only,1
+flag-agreement,All,,19/20,same_event_threshold,product_only,40
+flag-agreement,All,,19/20,own_product_threshold,product_only,1
+flag-agreement,All,,99/100,same_event_threshold,product_only,38
+flag-agreement,All,,99/100,own_product_threshold,product_only,1
+flag-agreement,All,,9/10,same_event_threshold,event_only,0
+flag-agreement,All,,9/10,own_product_threshold,event_only,2
+flag-agreement,All,,19/20,same_event_threshold,event_only,0
+flag-agreement,All,,19/20,own_product_threshold,event_only,1
+flag-agreement,All,,99/100,same_event_threshold,event_only,0
+flag-agreement,All,,99/100,own_product_threshold,event_only,0
+flag-agreement,All,,9/10,same_event_threshold,neither,6
+flag-agreement,All,,9/10,own_product_threshold,neither,45
+flag-agreement,All,,19/20,same_event_threshold,neither,7
+flag-agreement,All,,19/20,own_product_threshold,neither,46
+flag-agreement,All,,99/100,same_event_threshold,neither,10
+flag-agreement,All,,99/100,own_product_threshold,neither,47
+flag-agreement,Class I,,9/10,same_event_threshold,both,2
+flag-agreement,Class I,,9/10,own_product_threshold,both,2
+flag-agreement,Class I,,19/20,same_event_threshold,both,1
+flag-agreement,Class I,,19/20,own_product_threshold,both,1
+flag-agreement,Class I,,99/100,same_event_threshold,both,0
+flag-agreement,Class I,,99/100,own_product_threshold,both,0
+flag-agreement,Class I,,9/10,same_event_threshold,product_only,30
+flag-agreement,Class I,,9/10,own_product_threshold,product_only,8
+flag-agreement,Class I,,19/20,same_event_threshold,product_only,25
+flag-agreement,Class I,,19/20,own_product_threshold,product_only,3
+flag-agreement,Class I,,99/100,same_event_threshold,product_only,24
+flag-agreement,Class I,,99/100,own_product_threshold,product_only,3
+flag-agreement,Class I,,9/10,same_event_threshold,event_only,0
+flag-agreement,Class I,,9/10,own_product_threshold,event_only,0
+flag-agreement,Class I,,19/20,same_event_threshold,event_only,0
+flag-agreement,Class I,,19/20,own_product_threshold,event_only,0
+flag-agreement,Class I,,99/100,same_event_threshold,event_only,0
+flag-agreement,Class I,,99/100,own_product_threshold,event_only,0
+flag-agreement,Class I,,9/10,same_event_threshold,neither,16
+flag-agreement,Class I,,9/10,own_product_threshold,neither,38
+flag-agreement,Class I,,19/20,same_event_threshold,neither,22
+flag-agreement,Class I,,19/20,own_product_threshold,neither,44
+flag-agreement,Class I,,99/100,same_event_threshold,neither,24
+flag-agreement,Class I,,99/100,own_product_threshold,neither,45
+flag-agreement,Class II,,9/10,same_event_threshold,both,4
+flag-agreement,Class II,,9/10,own_product_threshold,both,0
+flag-agreement,Class II,,19/20,same_event_threshold,both,1
+flag-agreement,Class II,,19/20,own_product_threshold,both,0
+flag-agreement,Class II,,99/100,same_event_threshold,both,0
+flag-agreement,Class II,,99/100,own_product_threshold,both,0
+flag-agreement,Class II,,9/10,same_event_threshold,product_only,37
+flag-agreement,Class II,,9/10,own_product_threshold,product_only,0
+flag-agreement,Class II,,19/20,same_event_threshold,product_only,39
+flag-agreement,Class II,,19/20,own_product_threshold,product_only,0
+flag-agreement,Class II,,99/100,same_event_threshold,product_only,34
+flag-agreement,Class II,,99/100,own_product_threshold,product_only,0
+flag-agreement,Class II,,9/10,same_event_threshold,event_only,0
+flag-agreement,Class II,,9/10,own_product_threshold,event_only,4
+flag-agreement,Class II,,19/20,same_event_threshold,event_only,0
+flag-agreement,Class II,,19/20,own_product_threshold,event_only,1
+flag-agreement,Class II,,99/100,same_event_threshold,event_only,0
+flag-agreement,Class II,,99/100,own_product_threshold,event_only,0
+flag-agreement,Class II,,9/10,same_event_threshold,neither,7
+flag-agreement,Class II,,9/10,own_product_threshold,neither,44
+flag-agreement,Class II,,19/20,same_event_threshold,neither,8
+flag-agreement,Class II,,19/20,own_product_threshold,neither,47
+flag-agreement,Class II,,99/100,same_event_threshold,neither,14
+flag-agreement,Class II,,99/100,own_product_threshold,neither,48
+flag-agreement,Class III,,9/10,same_event_threshold,both,4
+flag-agreement,Class III,,9/10,own_product_threshold,both,4
+flag-agreement,Class III,,19/20,same_event_threshold,both,4
+flag-agreement,Class III,,19/20,own_product_threshold,both,2
+flag-agreement,Class III,,99/100,same_event_threshold,both,1
+flag-agreement,Class III,,99/100,own_product_threshold,both,0
+flag-agreement,Class III,,9/10,same_event_threshold,product_only,14
+flag-agreement,Class III,,9/10,own_product_threshold,product_only,6
+flag-agreement,Class III,,19/20,same_event_threshold,product_only,14
+flag-agreement,Class III,,19/20,own_product_threshold,product_only,1
+flag-agreement,Class III,,99/100,same_event_threshold,product_only,12
+flag-agreement,Class III,,99/100,own_product_threshold,product_only,0
+flag-agreement,Class III,,9/10,same_event_threshold,event_only,0
+flag-agreement,Class III,,9/10,own_product_threshold,event_only,0
+flag-agreement,Class III,,19/20,same_event_threshold,event_only,0
+flag-agreement,Class III,,19/20,own_product_threshold,event_only,2
+flag-agreement,Class III,,99/100,same_event_threshold,event_only,0
+flag-agreement,Class III,,99/100,own_product_threshold,event_only,1
+flag-agreement,Class III,,9/10,same_event_threshold,neither,30
+flag-agreement,Class III,,9/10,own_product_threshold,neither,38
+flag-agreement,Class III,,19/20,same_event_threshold,neither,30
+flag-agreement,Class III,,19/20,own_product_threshold,neither,43
+flag-agreement,Class III,,99/100,same_event_threshold,neither,35
+flag-agreement,Class III,,99/100,own_product_threshold,neither,47

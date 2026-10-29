@@ -1,0 +1,129 @@
+{
+  "timestamp_utc": "2026-10-29T18:04:58.849965+00:00",
+  "status": "LOCAL_CANDIDATE_PASS_STAGED_AUDIT_AND_REMOTE_PENDING",
+  "study_id": "17",
+  "version": "study17-candidate-3",
+  "audience": "Research/data-engineering reviewers;executive firstlayer withactualfindings andlimits",
+  "scope": "Food administrative counting andillustrative internaldata-review policies;noalerts,medical,amendment/lifecycle,prospective orhuman-auditclaim",
+  "criteria": {
+    "source_rights_privacy": {
+      "grade": "PASS",
+      "evidence": "Food-only administrative fields;21full pages stay outsideGit;261184selected/normalized fields checked;CC0default and exceptions attributed"
+    },
+    "coverage": {
+      "grade": "PASS",
+      "evidence": "16324unique products,108months,all unchanged class-month minimums"
+    },
+    "separation": {
+      "grade": "PASS",
+      "evidence": "da5f200e635a0d733737a1c4e52a64d14542f0b2 publicly sealed twelve dependencies and calibration before first evaluation outcome"
+    },
+    "scientific_values": {
+      "grade": "PASS",
+      "evidence": "9boundary tests;13608development and10685evaluation independent checks;all exact/rational comparisons and reported ratios pass"
+    },
+    "fresh_replay": {
+      "grade": "PASS",
+      "evidence": "196440exact fields/documents and1296floating fields rebuilt isolated from minimized source"
+    },
+    "presentation_source_support": {
+      "grade": "PASS",
+      "evidence": "528plotted values verified;threeoriginal figures andallsevenrendered pages visually inspected;zero compiler box/glyph/reference warnings;complete fair comparator and qualifications"
+    },
+    "publication_privacy": {
+      "grade": "PASS_PDF_SCOPE_STAGED_AUDIT_PENDING",
+      "evidence": "Fiveapproved exactpaperfiles;70numeric/table/textchecks;seven required semanticpages andallcommands;no activecode/attachments/forms/additionalactions;HTTPSlinks only"
+    },
+    "remote_release": {
+      "grade": "PENDING",
+      "evidence": "Exact-headLinux/merge/tree/tag proofs required before release count"
+    }
+  },
+  "checks": {
+    "results/INDEPENDENT_SOURCE_CHECK.json": {
+      "status": "PASS",
+      "selected_and_normalized_field_checks": 261184,
+      "products": 16324,
+      "pages": 21,
+      "final_count_probes": 9,
+      "source_version": "2026-10-21",
+      "originals_excluded_from_git": true
+    },
+    "results/development/INDEPENDENT_CHECK.json": {
+      "status": "PASS",
+      "phase": "development",
+      "independent_value_checks": 13608,
+      "max_float_delta": 0.0,
+      "methods": "SQLite distinct/grouped counts; decimal type7 quantiles; Fraction comparisons/concentration; independent contingency histograms",
+      "tolerance": "Exact integers/rational thresholds/flags;1e-12 absolute for reported float ratios only"
+    },
+    "results/evaluation/INDEPENDENT_CHECK.json": {
+      "status": "PASS",
+      "phase": "evaluation",
+      "independent_value_checks": 10685,
+      "max_float_delta": 0.0,
+      "methods": "SQLite distinct/grouped counts; decimal type7 quantiles; Fraction comparisons/concentration; independent contingency histograms",
+      "tolerance": "Exact integers/rational thresholds/flags;1e-12 absolute for reported float ratios only"
+    },
+    "results/REPRODUCTION.json": {
+      "status": "PASS",
+      "exact_fields_or_json_documents": 196440,
+      "floating_fields": 1296,
+      "scope": "Offline normalized source, calibration, all counts/memberships/flags/summaries and two independent SQL reconstructions; no full original or live network needed",
+      "freeze_hashes_checked": 12
+    },
+    "results/FIGURE_CHECK.json": {
+      "status": "PASS",
+      "plotted_values": 528,
+      "global_distinct_events": 4601,
+      "global_multi_month_event_ids": 0,
+      "global_multi_class_event_ids": 98,
+      "scope": "Independent source SQL, exact ratios and retained independently verified policy flags; visual inspection is separate"
+    },
+    "results/PAPER_CHECK.json": {
+      "status": "PASS",
+      "manuscript_pages": 7,
+      "numeric_table_and_text_checks": 70,
+      "public_file_hashes_checked": 5,
+      "pdf_security": "No active code, attachments, form or additional actions; ordinary HTTPS links and navigation allowed",
+      "text_scope": "Bounded high-confidence machine-path/token scan; visual and source review separate"
+    }
+  },
+  "sha256": {
+    "PROTOCOL.md": "e72d13e8d52c3de8adf074c078ccdb88db4345ee25d62ccd1df1688ca57acdfd",
+    "results/CODE_FREEZE.json": "ccd090ab3c45721a98a19a48661a750528e8f9d35d1612a24b472afdece4fb85",
+    "data/source/manifest.json": "d4145c8e575373d8c95a069855f9661efe0e1a2983f58abae197fcb5356e5b07",
+    "data/records.csv": "5ce7a108949567727df946315f131cce6f6ac997109becddfb3a8bc6cc8f1719",
+    "results/calibration.json": "79c7818685d71e15b6cc47ba75d995dfcdae43e869a9b86ca803eaddbbb81513",
+    "paper/main.tex": "4d8ed13dcf5b44ab14838407000551c071164495d7e72de2583f087a3cd20379",
+    "paper/manuscript.pdf": "3078563bdb9794ff7f1dd0748a9972f2533e586eaf6bad771375b42d0370da3a",
+    "paper/PUBLICATION_SCOPE.json": "47053d0d6b4702453e56dd7ffc0f7b51197fab9a61a484a107e41286047f3fc1",
+    "paper/REVIEW.json": "15bbad3bea70229dde36f4d22fa7d50a67678086da7a671dad840cd0490d4b93",
+    "src/check_reproduction.py": "d0fd4f34ff312a46b2012c079acd5c18c063d3f6d2d4b8a980a360e0376e08a9",
+    "src/verify_paper.py": "4a938ccb46a3bc69b9512e8ba6830dccefc107f8ed9e0a5581ba8575473c8227",
+    "src/verify_figures.py": "9c87b12c4287216d04de52e2ea27f2e1b1dc77ee35c3451df6acb828d9b99213"
+  },
+  "review_round": 3,
+  "review_budget": "3substantive rounds/45active review minutes/60review calls per study;execution separate",
+  "workload_proxies": {
+    "elapsed_discovery_to_candidate_minutes_upper_bound": 18,
+    "review_specific_calls_upper_bound": 50,
+    "not_quota_or_billing": true
+  },
+  "usage_observation": {
+    "source": "Codex get_usage_limits",
+    "observed_utc": "2026-10-29T18:02:56Z",
+    "bucket": "codex",
+    "window_minutes": 10080,
+    "used_percent": 80,
+    "remaining_percent": 20,
+    "reset_unix": 1793782197,
+    "shared_account_not_task_usage": true
+  },
+  "retained_failures": [
+    "FirstLaTexreference delimiter compilefailure;one paragraphseparatorfix",
+    "Unjustifiedlengthproxy andligature-sensitive PDFheadingchecker repaired;manuscriptbytes unchanged",
+    "Staged diff detected CRLF in byte-preserved TeX and one trailing Python space;normalized TeXlineendings only. PDFbytes andcontent unchanged;approved sourcehash refreshed."
+  ],
+  "status_limits": "No release countuntil exactcandidate/mainLinux success,matchingtested/mergedtree andremoteannotatedtag;all50program remainsincomplete."
+}

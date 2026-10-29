@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "exact_fields_or_json_documents": 196440,
+  "floating_fields": 1296,
+  "scope": "Offline normalized source, calibration, all counts/memberships/flags/summaries and two independent SQL reconstructions; no full original or live network needed",
+  "freeze_hashes_checked": 12
+}

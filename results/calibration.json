@@ -1,0 +1,652 @@
+{
+  "calibration_years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "convention": "Type7; exact rational; flag strictly greater; no optimization",
+  "thresholds": [
+    {
+      "omitted_year": null,
+      "panel": "All",
+      "q_numerator": 9,
+      "q_denominator": 10,
+      "grain": "events",
+      "months": 60,
+      "numerator": 327,
+      "denominator": 5
+    },
+    {
+      "omitted_year": null,
+      "panel": "All",
+      "q_numerator": 9,
+      "q_denominator": 10,
+      "grain": "products",
+      "months": 60,
+      "numerator": 1697,
+      "denominator": 5
+    },
+    {
+      "omitted_year": null,
+      "panel": "All",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "events",
+      "months": 60,
+      "numerator": 1423,
+      "denominator": 20
+    },
+    {
+      "omitted_year": null,
+      "panel": "All",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "products",
+      "months": 60,
+      "numerator": 2266,
+      "denominator": 5
+    },
+    {
+      "omitted_year": null,
+      "panel": "All",
+      "q_numerator": 99,
+      "q_denominator": 100,
+      "grain": "events",
+      "months": 60,
+      "numerator": 78,
+      "denominator": 1
+    },
+    {
+      "omitted_year": null,
+      "panel": "All",
+      "q_numerator": 99,
+      "q_denominator": 100,
+      "grain": "products",
+      "months": 60,
+      "numerator": 13313,
+      "denominator": 25
+    },
+    {
+      "omitted_year": null,
+      "panel": "Class I",
+      "q_numerator": 9,
+      "q_denominator": 10,
+      "grain": "events",
+      "months": 60,
+      "numerator": 271,
+      "denominator": 10
+    },
+    {
+      "omitted_year": null,
+      "panel": "Class I",
+      "q_numerator": 9,
+      "q_denominator": 10,
+      "grain": "products",
+      "months": 60,
+      "numerator": 223,
+      "denominator": 2
+    },
+    {
+      "omitted_year": null,
+      "panel": "Class I",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "events",
+      "months": 60,
+      "numerator": 171,
+      "denominator": 5
+    },
+    {
+      "omitted_year": null,
+      "panel": "Class I",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "products",
+      "months": 60,
+      "numerator": 1573,
+      "denominator": 10
+    },
+    {
+      "omitted_year": null,
+      "panel": "Class I",
+      "q_numerator": 99,
+      "q_denominator": 100,
+      "grain": "events",
+      "months": 60,
+      "numerator": 2091,
+      "denominator": 50
+    },
+    {
+      "omitted_year": null,
+      "panel": "Class I",
+      "q_numerator": 99,
+      "q_denominator": 100,
+      "grain": "products",
+      "months": 60,
+      "numerator": 4912,
+      "denominator": 25
+    },
+    {
+      "omitted_year": null,
+      "panel": "Class II",
+      "q_numerator": 9,
+      "q_denominator": 10,
+      "grain": "events",
+      "months": 60,
+      "numerator": 34,
+      "denominator": 1
+    },
+    {
+      "omitted_year": null,
+      "panel": "Class II",
+      "q_numerator": 9,
+      "q_denominator": 10,
+      "grain": "products",
+      "months": 60,
+      "numerator": 1643,
+      "denominator": 10
+    },
+    {
+      "omitted_year": null,
+      "panel": "Class II",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "events",
+      "months": 60,
+      "numerator": 371,
+      "denominator": 10
+    },
+    {
+      "omitted_year": null,
+      "panel": "Class II",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "products",
+      "months": 60,
+      "numerator": 2637,
+      "denominator": 10
+    },
+    {
+      "omitted_year": null,
+      "panel": "Class II",
+      "q_numerator": 99,
+      "q_denominator": 100,
+      "grain": "events",
+      "months": 60,
+      "numerator": 4423,
+      "denominator": 100
+    },
+    {
+      "omitted_year": null,
+      "panel": "Class II",
+      "q_numerator": 99,
+      "q_denominator": 100,
+      "grain": "products",
+      "months": 60,
+      "numerator": 8817,
+      "denominator": 20
+    },
+    {
+      "omitted_year": null,
+      "panel": "Class III",
+      "q_numerator": 9,
+      "q_denominator": 10,
+      "grain": "events",
+      "months": 60,
+      "numerator": 7,
+      "denominator": 1
+    },
+    {
+      "omitted_year": null,
+      "panel": "Class III",
+      "q_numerator": 9,
+      "q_denominator": 10,
+      "grain": "products",
+      "months": 60,
+      "numerator": 151,
+      "denominator": 10
+    },
+    {
+      "omitted_year": null,
+      "panel": "Class III",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "events",
+      "months": 60,
+      "numerator": 7,
+      "denominator": 1
+    },
+    {
+      "omitted_year": null,
+      "panel": "Class III",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "products",
+      "months": 60,
+      "numerator": 124,
+      "denominator": 5
+    },
+    {
+      "omitted_year": null,
+      "panel": "Class III",
+      "q_numerator": 99,
+      "q_denominator": 100,
+      "grain": "events",
+      "months": 60,
+      "numerator": 523,
+      "denominator": 50
+    },
+    {
+      "omitted_year": null,
+      "panel": "Class III",
+      "q_numerator": 99,
+      "q_denominator": 100,
+      "grain": "products",
+      "months": 60,
+      "numerator": 6241,
+      "denominator": 100
+    },
+    {
+      "omitted_year": 2017,
+      "panel": "All",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "events",
+      "months": 48,
+      "numerator": 1199,
+      "denominator": 20
+    },
+    {
+      "omitted_year": 2017,
+      "panel": "All",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "products",
+      "months": 48,
+      "numerator": 6229,
+      "denominator": 20
+    },
+    {
+      "omitted_year": 2017,
+      "panel": "Class I",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "events",
+      "months": 48,
+      "numerator": 493,
+      "denominator": 20
+    },
+    {
+      "omitted_year": 2017,
+      "panel": "Class I",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "products",
+      "months": 48,
+      "numerator": 2179,
+      "denominator": 20
+    },
+    {
+      "omitted_year": 2017,
+      "panel": "Class II",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "events",
+      "months": 48,
+      "numerator": 34,
+      "denominator": 1
+    },
+    {
+      "omitted_year": 2017,
+      "panel": "Class II",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "products",
+      "months": 48,
+      "numerator": 3079,
+      "denominator": 20
+    },
+    {
+      "omitted_year": 2017,
+      "panel": "Class III",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "events",
+      "months": 48,
+      "numerator": 7,
+      "denominator": 1
+    },
+    {
+      "omitted_year": 2017,
+      "panel": "Class III",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "products",
+      "months": 48,
+      "numerator": 163,
+      "denominator": 10
+    },
+    {
+      "omitted_year": 2018,
+      "panel": "All",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "events",
+      "months": 48,
+      "numerator": 703,
+      "denominator": 10
+    },
+    {
+      "omitted_year": 2018,
+      "panel": "All",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "products",
+      "months": 48,
+      "numerator": 2278,
+      "denominator": 5
+    },
+    {
+      "omitted_year": 2018,
+      "panel": "Class I",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "events",
+      "months": 48,
+      "numerator": 183,
+      "denominator": 5
+    },
+    {
+      "omitted_year": 2018,
+      "panel": "Class I",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "products",
+      "months": 48,
+      "numerator": 3049,
+      "denominator": 20
+    },
+    {
+      "omitted_year": 2018,
+      "panel": "Class II",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "events",
+      "months": 48,
+      "numerator": 693,
+      "denominator": 20
+    },
+    {
+      "omitted_year": 2018,
+      "panel": "Class II",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "products",
+      "months": 48,
+      "numerator": 282,
+      "denominator": 1
+    },
+    {
+      "omitted_year": 2018,
+      "panel": "Class III",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "events",
+      "months": 48,
+      "numerator": 7,
+      "denominator": 1
+    },
+    {
+      "omitted_year": 2018,
+      "panel": "Class III",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "products",
+      "months": 48,
+      "numerator": 209,
+      "denominator": 10
+    },
+    {
+      "omitted_year": 2019,
+      "panel": "All",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "events",
+      "months": 48,
+      "numerator": 1459,
+      "denominator": 20
+    },
+    {
+      "omitted_year": 2019,
+      "panel": "All",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "products",
+      "months": 48,
+      "numerator": 8423,
+      "denominator": 20
+    },
+    {
+      "omitted_year": 2019,
+      "panel": "Class I",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "events",
+      "months": 48,
+      "numerator": 183,
+      "denominator": 5
+    },
+    {
+      "omitted_year": 2019,
+      "panel": "Class I",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "products",
+      "months": 48,
+      "numerator": 1609,
+      "denominator": 10
+    },
+    {
+      "omitted_year": 2019,
+      "panel": "Class II",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "events",
+      "months": 48,
+      "numerator": 383,
+      "denominator": 10
+    },
+    {
+      "omitted_year": 2019,
+      "panel": "Class II",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "products",
+      "months": 48,
+      "numerator": 2599,
+      "denominator": 10
+    },
+    {
+      "omitted_year": 2019,
+      "panel": "Class III",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "events",
+      "months": 48,
+      "numerator": 7,
+      "denominator": 1
+    },
+    {
+      "omitted_year": 2019,
+      "panel": "Class III",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "products",
+      "months": 48,
+      "numerator": 232,
+      "denominator": 5
+    },
+    {
+      "omitted_year": 2020,
+      "panel": "All",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "events",
+      "months": 48,
+      "numerator": 1459,
+      "denominator": 20
+    },
+    {
+      "omitted_year": 2020,
+      "panel": "All",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "products",
+      "months": 48,
+      "numerator": 2278,
+      "denominator": 5
+    },
+    {
+      "omitted_year": 2020,
+      "panel": "Class I",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "events",
+      "months": 48,
+      "numerator": 183,
+      "denominator": 5
+    },
+    {
+      "omitted_year": 2020,
+      "panel": "Class I",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "products",
+      "months": 48,
+      "numerator": 1609,
+      "denominator": 10
+    },
+    {
+      "omitted_year": 2020,
+      "panel": "Class II",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "events",
+      "months": 48,
+      "numerator": 383,
+      "denominator": 10
+    },
+    {
+      "omitted_year": 2020,
+      "panel": "Class II",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "products",
+      "months": 48,
+      "numerator": 2841,
+      "denominator": 10
+    },
+    {
+      "omitted_year": 2020,
+      "panel": "Class III",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "events",
+      "months": 48,
+      "numerator": 7,
+      "denominator": 1
+    },
+    {
+      "omitted_year": 2020,
+      "panel": "Class III",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "products",
+      "months": 48,
+      "numerator": 443,
+      "denominator": 10
+    },
+    {
+      "omitted_year": 2021,
+      "panel": "All",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "events",
+      "months": 48,
+      "numerator": 1459,
+      "denominator": 20
+    },
+    {
+      "omitted_year": 2021,
+      "panel": "All",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "products",
+      "months": 48,
+      "numerator": 2278,
+      "denominator": 5
+    },
+    {
+      "omitted_year": 2021,
+      "panel": "Class I",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "events",
+      "months": 48,
+      "numerator": 183,
+      "denominator": 5
+    },
+    {
+      "omitted_year": 2021,
+      "panel": "Class I",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "products",
+      "months": 48,
+      "numerator": 1609,
+      "denominator": 10
+    },
+    {
+      "omitted_year": 2021,
+      "panel": "Class II",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "events",
+      "months": 48,
+      "numerator": 383,
+      "denominator": 10
+    },
+    {
+      "omitted_year": 2021,
+      "panel": "Class II",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "products",
+      "months": 48,
+      "numerator": 2841,
+      "denominator": 10
+    },
+    {
+      "omitted_year": 2021,
+      "panel": "Class III",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "events",
+      "months": 48,
+      "numerator": 7,
+      "denominator": 1
+    },
+    {
+      "omitted_year": 2021,
+      "panel": "Class III",
+      "q_numerator": 19,
+      "q_denominator": 20,
+      "grain": "products",
+      "months": 48,
+      "numerator": 232,
+      "denominator": 5
+    }
+  ]
+}

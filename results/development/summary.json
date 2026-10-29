@@ -1,0 +1,17 @@
+{
+  "phase": "development",
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "source_products": 9491,
+  "event_months": 2647,
+  "distinct_event_ids": 2647,
+  "multi_month_event_ids": 0,
+  "multi_class_event_ids": 51,
+  "max_monthly_fanout": 10.043478260869565,
+  "product_event_month_ratio": 3.5855685681904044
+}

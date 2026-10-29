@@ -10,13 +10,17 @@ def records(path):
 
 def main(phase):
     db=sqlite3.connect(':memory:');db.execute('CREATE TABLE r(product TEXT,event TEXT,month TEXT,class TEXT)')
-    original=records(ROOT/'data/records.csv');db.executemany('INSERT INTO r VALUES(?,?,?,?)',[(r['recall_number'],r['event_id'],r['report_date'][:4]+'-'+r['report_date'][4:6],r['classification']) for r in original])
+    original=records(ROOT/'data/records.csv')
+    if phase=='development':original=[r for r in original if int(r['report_date'][:4]) in CAL_YEARS]
+    db.executemany('INSERT INTO r VALUES(?,?,?,?)',[(r['recall_number'],r['event_id'],r['report_date'][:4]+'-'+r['report_date'][4:6],r['classification']) for r in original])
     checks=0;max_delta=0.0;allcounts={};allmembers={}
     for panel in PANELS:
         where='' if panel=='All' else ' WHERE class=?';params=[] if panel=='All' else [panel]
         for m,p,u,e in db.execute('SELECT month,COUNT(*),COUNT(DISTINCT product),COUNT(DISTINCT event) FROM r'+where+' GROUP BY month',params):allcounts[panel,m]=(p,u,e)
         for m,event,n in db.execute('SELECT month,event,COUNT(*) FROM r'+where+' GROUP BY month,event',params):allmembers[panel,m,event]=n
     cal=json.loads((ROOT/'results/calibration.json').read_text());thresholds={}
+    assert len(cal['thresholds'])==64
+    assert len({(t['panel'],t['omitted_year'],t['q_numerator'],t['q_denominator'],t['grain']) for t in cal['thresholds']})==64
     for t in cal['thresholds']:
         vals=[]
         for year in CAL_YEARS:
@@ -28,6 +32,7 @@ def main(phase):
         thresholds[t['panel'],t['omitted_year'],f"{t['q_numerator']}/{t['q_denominator']}",t['grain']]=actual
     folder=ROOT/'results'/phase;years=CAL_YEARS if phase=='development' else EVAL_YEARS
     counted=records(folder/'monthly_counts.csv');assert len(counted)==len(years)*12*len(PANELS)
+    assert {(r['panel'],r['month']) for r in counted}=={(panel,f'{y}-{m:02}') for panel in PANELS for y in years for m in range(1,13)}
     for row in counted:
         key=row['panel'],row['month'];p,u,e=allcounts.get(key,(0,0,0));sizes=[n for (panel,m,_),n in allmembers.items() if (panel,m)==key];sizes.sort(reverse=True)
         expected={'products':p,'unique_products':u,'events':e,'excess_products':p-e,'largest_event_products':max(sizes,default=0)}
@@ -35,16 +40,18 @@ def main(phase):
         for k,value in [('fanout',Fraction(p,e) if e else Fraction()),('top5_product_fraction',Fraction(sum(sizes[:5]),p) if p else Fraction()),('product_hhi',sum((Fraction(n,p)**2 for n in sizes),Fraction()) if p else Fraction())]:
             delta=abs(float(row[k])-float(value));assert delta<=1e-12;max_delta=max(max_delta,delta);checks+=1
     memberships=records(folder/'event_memberships.csv');expected={(p,m,e):n for (p,m,e),n in allmembers.items() if int(m[:4]) in years}
-    assert len(memberships)==len(expected)
+    assert len(memberships)==len(expected) and {(r['panel'],r['month'],r['event_id']) for r in memberships}==set(expected)
     for row in memberships:assert int(row['products'])==expected[row['panel'],row['month'],row['event_id']];checks+=1
     flags=records(folder/'monthly_flags.csv');expectedflags={}
+    assert len(flags)==len(years)*12*4*8
+    assert len({(r['panel'],r['month'],r['omitted_year'],r['q']) for r in flags})==len(flags)
     for r in flags:
         omit=int(r['omitted_year']) if r['omitted_year'] else None;p,_,e=allcounts.get((r['panel'],r['month']),(0,0,0));et=thresholds[r['panel'],omit,r['q'],'events'];pt=thresholds[r['panel'],omit,r['q'],'products']
         fs=[int(Fraction(e)>et),int(Fraction(p)>et),int(Fraction(p)>pt)]
         for col,v in zip(['event_flag','product_same_threshold_flag','product_own_threshold_flag'],fs):assert int(r[col])==v;checks+=1
         key=r['panel'],r['omitted_year'],r['q'];expectedflags.setdefault(key,[]).append(fs)
     summary=records(folder/'flag_summary.csv')
-    assert len(summary)==64
+    assert len(summary)==64 and len({(r['panel'],r['omitted_year'],r['q'],r['product_policy']) for r in summary})==64
     for r in summary:
         pairs=[(f[0],f[1 if r['product_policy']=='same_event_threshold' else 2]) for f in expectedflags[r['panel'],r['omitted_year'],r['q']]]
         hist={(a,b):sum((x,y)==(a,b) for x,y in pairs) for a in [0,1] for b in [0,1]}
